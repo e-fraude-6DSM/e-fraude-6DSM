@@ -1,6 +1,6 @@
 <br id="topo">
 
-# É Fraude? - Detecção de Atividades Fraudulentas
+<p align="center"> <img src="./BannerPI6s.png" /></p>
 
 <p align="center">
     <a href="#sobre">Sobre</a> |
@@ -12,7 +12,7 @@
 
 <span id="sobre">
   
-## Sobre
+## :bookmark_tabs: Sobre
 
 **É Fraude?** é um projeto interdisciplinar desenvolvido durante o 6º semestre do curso de **Desenvolvimento de Software Multiplataforma** na Fatec Franca.  
 O objetivo principal é oferecer uma solução para detecção de fraudes em transações de cartão de crédito, utilizando tecnologias modernas como aprendizado de máquina e análise de dados.  
@@ -21,7 +21,7 @@ O objetivo principal é oferecer uma solução para detecção de fraudes em tra
 
 <span id="apresentacao">
   
-## Apresentação
+## :clapper: Apresentação
 
 **Youtube:**
 
@@ -29,7 +29,7 @@ O objetivo principal é oferecer uma solução para detecção de fraudes em tra
 
 <span id="equipe">
   
-## Equipe
+## :busts_in_silhouette: Equipe
 
 | Nome                     | LinkedIn & GitHub                                                                                                                                                   |
 |-------------------------- |------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
