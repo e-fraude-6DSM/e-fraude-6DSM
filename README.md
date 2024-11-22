@@ -17,6 +17,14 @@
 **É Fraude?** é um projeto interdisciplinar desenvolvido durante o 6º semestre do curso de **Desenvolvimento de Software Multiplataforma** na Fatec Franca.  
 O objetivo principal é oferecer uma solução para detecção de fraudes em transações de cartão de crédito, utilizando tecnologias modernas como aprendizado de máquina e análise de dados.  
 
+**Web:** <a href="https://github.com/e-fraude-6DSM/web_pi_6_semester">web_pi_6_semester</a>
+
+**Mobile:** <a href="https://github.com/e-fraude-6DSM/app_pi_6_semester">app_pi_6_semester</a>
+
+**API:** <a href="https://github.com/e-fraude-6DSM/api_pi_6_semester">api_pi_6_semester</a>
+
+**Figma:** <a href="https://www.figma.com/design/ycSDkuJ9a7av5SRJ9icHW1/Projeto-Interdisciplinar-6-DSM?node-id=0-1&t=2ixoztvkVOHGtJsB-1">Protótipo</a>
+
 ---
 
 <span id="apresentacao">
